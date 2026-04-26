@@ -166,9 +166,9 @@ Layer 3  Lead scoring. AI reasoning plus deterministic rules override.
 Layer 4  Agentic routing. Three sequential CrewAI agents.
 Layer 5  Automation. Rep assignment, CRM update, Slack alert via REST API.
 
-<img src="architecture_v5.png" width="600" alt="Platform Architecture"/>
-
-
+<p align="center">
+<img src="architecture_v5.png" width="550" alt="Platform Architecture"/>
+</p>
 
 **Tech stack**
 
