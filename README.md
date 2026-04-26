@@ -5,8 +5,6 @@ B2B leads using multi-agent orchestration and AI reasoning with
 deterministic guardrails. Built for reliability, transparency, 
 and production deployment.
 
-![Architecture](architecture_v5.png)
-
 [View PRD](#) ← replace with Notion link
 
 ---
@@ -167,6 +165,9 @@ Layer 2  Context layer. Transcript embeddings into ChromaDB.
 Layer 3  Lead scoring. AI reasoning plus deterministic rules override.
 Layer 4  Agentic routing. Three sequential CrewAI agents.
 Layer 5  Automation. Rep assignment, CRM update, Slack alert via REST API.
+
+<img src="architecture_v5.png" width="600" alt="Platform Architecture"/>
+
 
 
 **Tech stack**
