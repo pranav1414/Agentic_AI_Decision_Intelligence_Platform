@@ -5,7 +5,7 @@ B2B leads using multi-agent orchestration and AI reasoning with
 deterministic guardrails. Built for reliability, transparency, 
 and production deployment.
 
-![Architecture](GTM%20AI%20AGENTIC%20ENGINE.png)
+![Architecture](architecture_v5.png)
 
 [View PRD](#) ← replace with Notion link
 
