@@ -1,7 +1,7 @@
 # Agentic AI Decision Intelligence Platform
 
-5-layer autonomous AI platform that enriches, scores, and routes 
-B2B leads using multi-agent orchestration and AI reasoning with 
+5 layer autonomous 𝐀𝐈 𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦 that enriches, scores, and routes 
+B2B leads using 𝐦𝐮𝐥𝐭𝐢 𝐚𝐠𝐞𝐧𝐭 𝐨𝐫𝐜𝐡𝐞𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐀𝐈 𝐫𝐞𝐚𝐬𝐨𝐧𝐢𝐧𝐠 with 
 deterministic guardrails. Built for reliability, transparency, 
 and production deployment.
 
@@ -13,7 +13,7 @@ and production deployment.
 
 B2B SaaS SDRs spend 13 to 21 minutes per lead on manual research 
 across Salesforce, Gong, and spreadsheets before making a priority 
-decision. At a 10-person sales team that is over 150 hours of 
+decision. At a 10 person sales team that is over 150 hours of 
 weekly capacity lost to work that does not require human judgment.
 
 The root cause is fragmented data. Buying signals live across CRMs, 
