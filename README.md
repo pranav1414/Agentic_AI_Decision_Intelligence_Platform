@@ -5,7 +5,7 @@ B2B leads using multi-agent orchestration and AI reasoning with
 deterministic guardrails. Built for reliability, transparency, 
 and production deployment.
 
-[View PRD](#) ← replace with Notion link
+[View Product Requirements Document](https://www.notion.so/Agentic-AI-Decision-Intelligence-Platform-PRD-34e9b0666cae8099aeeac6e31086897f?source=copy_link)
 
 ---
 
